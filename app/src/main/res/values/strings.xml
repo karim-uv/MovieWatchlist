@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Watchlist</string>
+
+    <!-- Main screen -->
+    <string name="title_my_watchlist">My Watchlist</string>
+    <string name="empty_list_title">No movies yet</string>
+    <string name="empty_list_subtitle">Tap the + button to add your first movie</string>
+    <string name="filter_all">All</string>
+    <string name="filter_to_watch">To Watch</string>
+    <string name="filter_watched">Watched</string>
+
+    <!-- Add / edit screen -->
+    <string name="title_add_movie">Add Movie</string>
+    <string name="title_edit_movie">Edit Movie</string>
+    <string name="hint_movie_title">Movie title</string>
+    <string name="hint_genre">Genre</string>
+    <string name="hint_notes">Notes (optional)</string>
+    <string name="label_rating">Your rating</string>
+    <string name="label_watched">Already watched</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!-- Detail screen -->
+    <string name="title_movie_details">Details</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+
+    <!-- Misc -->
+    <string name="status_watched">Watched</string>
+    <string name="status_to_watch">To Watch</string>
+    <string name="confirm_delete_title">Delete movie?</string>
+    <string name="confirm_delete_message">This can\'t be undone.</string>
+</resources>

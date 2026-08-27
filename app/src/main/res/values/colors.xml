@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / accent -->
+    <color name="accent">#FFB74D</color>           <!-- warm amber, "spotlight" feel -->
+    <color name="accent_dark">#F57C00</color>
+    <color name="accent_on">#1A1A1A</color>        <!-- text/icon color on top of accent -->
+
+    <!-- Backgrounds -->
+    <color name="background">#0F1115</color>       <!-- deep near-black, slight blue tint -->
+    <color name="surface">#1A1D24</color>          <!-- cards, sheets -->
+    <color name="surface_variant">#252932</color>  <!-- subtle elevated surfaces -->
+
+    <!-- Text -->
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#B0B3BA</color>
+    <color name="text_tertiary">#7A7E87</color>
+
+    <!-- Status -->
+    <color name="watched">#66BB6A</color>          <!-- green for watched -->
+    <color name="want_to_watch">#FFB74D</color>    <!-- amber for unwatched -->
+    <color name="delete">#EF5350</color>           <!-- red for delete -->
+
+    <!-- Misc -->
+    <color name="divider">#2A2D35</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,16 +1,17 @@
 # Movie Watchlist
 
+<img src="https://github.com/user-attachments/assets/48c3c737-c2d0-4cb4-9e01-98f0fd05d33f" width="260"> <img src="https://github.com/user-attachments/assets/bb7e3747-e1dd-4366-bd11-d6bf78727c16" width="260">
+
+---
+
 A native Android app for tracking films you want to watch and films you've already seen, with your own ratings, notes and reviews. Films can be added manually, or pulled straight from **The Movie Database (TMDB)** so the title, genre, synopsis and poster art fill in automatically.
 
 Built solo in Java as a university project.
 
 ---
 
-## Screenshots
 
-<img src="https://github.com/user-attachments/assets/48c3c737-c2d0-4cb4-9e01-98f0fd05d33f" width="260"> <img src="https://github.com/user-attachments/assets/bb7e3747-e1dd-4366-bd11-d6bf78727c16" width="260">
 
----
 
 ## Features
 
